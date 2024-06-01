@@ -1,4 +1,4 @@
-### Hi there 👋, I am Kazi Istiaq Mahmaud
+### Hi there 👋, I am Kazi Istiaq Mahamaud
 #### Frontend Developer
 ![Frontend Developer](https://media.licdn.com/dms/image/D5616AQEbohPrSAYGOg/profile-displaybackgroundimage-shrink_350_1400/0/1690879099065?e=1722470400&v=beta&t=0wkZOfqo9OYFJh8iDsbvn3v3XEwensBW-3lbw3y2fW0)
 
