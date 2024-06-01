@@ -27,7 +27,13 @@ collective growth.
 - 🔭 I’m currently working on https://clean-hub-client.vercel.app/  
 - 🌱 I’m currently learning NEXT JS 
 - 📫 How to reach me: istiaq.tanim17@gmail.com 
-- 😄 Pronouns: HE/HIM 
+- 😄 Pronouns: HE/HIM
+
+### Pinned Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-doe&repo=my-cool-project)](https://github.com/john-doe/my-cool-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-doe&repo=another-project)](https://github.com/john-doe/another-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=john-doe&repo=yet-another-project)](https://github.com/john-doe/yet-another-project)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/istiaq-tanim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kazi-istiaq-mahmud-2370981a5/)  
