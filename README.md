@@ -31,8 +31,7 @@ collective growth.
 
 ### Pinned Repositories
 
-[![Readme Card](https://github.com/istiaq-tanim/Juice-hub-client)](https://github.com/istiaq-tanim/Juice-hub-client)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=istiaq-tanim&repo=Juice-hub-client)](https://github.com/istiaq-tanim/Juice-hub-client)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/istiaq-tanim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kazi-istiaq-mahmud-2370981a5/)  
 
