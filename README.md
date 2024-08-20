@@ -1,7 +1,6 @@
 ### Hi there 👋, I am Kazi Istiaq Mahamaud
 #### Frontend Developer
-![Frontend Developer](https://media.licdn.com/dms/image/D5616AQEbohPrSAYGOg/profile-displaybackgroundimage-shrink_350_1400/0/1690879099065?e=1722470400&v=beta&t=0wkZOfqo9OYFJh8iDsbvn3v3XEwensBW-3lbw3y2fW0)
-
+![Frontend Developer](https://i.ibb.co/GMwJMz4/Brown-and-Gray-Simple-Personal-Linked-In-Banner.png)
 As an aspiring Frontend Developer, my goal is to set forth on a fulfilling path, utilizing my developing skills. I'm enthusiastic
 about making valuable contributions to impactful projects through proficient coding and embracing cutting-edge
 technologies. Driven by a strong passion for learning and a collaborative approach, I eagerly anticipate personal and
