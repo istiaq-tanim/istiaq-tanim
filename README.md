@@ -1,4 +1,4 @@
-### Hi there 👋, I am Kazi Istiaq Mahamaud
+### Hi there 👋, I am Kazi Istiaq Mahamud
 #### Frontend Developer
 ![Frontend Developer](https://i.ibb.co/GMwJMz4/Brown-and-Gray-Simple-Personal-Linked-In-Banner.png)
 As an aspiring Frontend Developer, my goal is to set forth on a fulfilling path, utilizing my developing skills. I'm enthusiastic
